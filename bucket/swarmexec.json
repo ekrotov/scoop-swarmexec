@@ -1,12 +1,12 @@
 {
-  "version": "1.23.0",
+  "version": "1.23.1",
   "description": "Exec, logs and port-forward into any container of a Docker Swarm, without SSH",
   "homepage": "https://swarm-exec.cloud-surfers.net",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ekrotov/swarmexec/releases/download/v1.23.0/swarmexec-windows-amd64.exe#/swarmexec.exe",
-      "hash": "06e03fe9553b31fd375cb37e97dd3450854c1adc3a967f3aa210d41425601a6b"
+      "url": "https://github.com/ekrotov/swarmexec/releases/download/v1.23.1/swarmexec-windows-amd64.exe#/swarmexec.exe",
+      "hash": "f89b0b0c976a18460497df15ea8d79cb963cb1c0e6ac36088185944e02ee15ec"
     }
   },
   "bin": "swarmexec.exe"
